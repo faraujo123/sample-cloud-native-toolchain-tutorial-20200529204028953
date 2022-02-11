@@ -78,7 +78,7 @@
     "jasmine-core": "^3.4.0",
     "jshint": "latest",
     "jshint-junit-reporter": "^0.2.3",
-    "karma": "4.1.0",
+    "karma": "6.3.14",
     "karma-chai": "~0.1.0",
     "karma-coverage": "^1.1.2",
     "karma-jasmine": "^2.0.1",
